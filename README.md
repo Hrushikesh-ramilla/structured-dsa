@@ -1,19 +1,29 @@
 # Structured DSA
 
-A growing collection of **Data Structures and Algorithms** solutions, written with clarity and structure in mind.
+An evolving collection of **advanced Data Structures and Algorithms** problems, focused on non-trivial patterns, optimizations, and edge cases.
 
 ---
 
 ## About
 
-This repository is meant to become a **topic-wise DSA reference** for learning, revision, and interview preparation.
+This repository is intended for **experienced problem solvers** (CF Specialist+, LC Knight+) who want to push toward **top-tier performance**.
 
-Instead of organizing solutions by platforms, the focus here is on:
-- Understanding core ideas
-- Recognizing common patterns
-- Writing clean, readable code
+Basic data structures and introductory problems are **assumed knowledge** and are intentionally skipped.  
+The focus is on problems that expose deeper techniques, tricky constraints, and reusable advanced patterns.
 
-Problems may come from sources like LeetCode, Codeforces, or GFG, but they are always grouped by **concept**.
+Problems may originate from platforms such as LeetCode, Codeforces, or GFG, but the organization is always **concept- and technique-driven**, not platform-based.
+
+---
+
+## Scope
+
+This repository focuses primarily on **hard problems with a small number of carefully chosen medium problems** that involve:
+- Advanced usage of standard data structures
+- Optimizations beyond straightforward solutions
+- Subtle edge cases and constraints
+- Pattern generalization across problems
+
+This is **not** a beginner tutorial or a complete DSA syllabus.
 
 ---
 
@@ -21,37 +31,44 @@ Problems may come from sources like LeetCode, Codeforces, or GFG, but they are a
 
 This repository is **under active development**.
 
-Content is being added gradually to keep the structure clean and the explanations clear.  
-Not all topics are present yet.
+Content is being added gradually to maintain:
+- High signal-to-noise ratio
+- Clear reasoning behind each solution
+- A structure that scales for advanced topics
+
+Not all sections are present yet.
 
 ---
 
-## Approach
+## Organization Philosophy
 
-- Organize by **topic**, not platform  
-- Prefer clarity over quantity  
-- Keep solutions simple and easy to follow  
+- Concepts over platforms  
+- Techniques over difficulty labels  
+- Depth over coverage  
 
-This repo is intended as a learning and revision resource, not a dump of solved problems.
+The goal is to build a **high-quality reference**, not a large collection of solved problems.
 
 ---
 
 ## Code Style
 
 Each solution generally includes:
-- A short problem description or reference
-- The main idea or approach
-- Time and space complexity (where relevant)
+- Problem reference (where applicable)
+- Core idea / technique used
+- Key observations or pitfalls
+- Time and space complexity
+
+Code is written to be **read, analyzed, and reused**.
 
 ---
 
 ## Contributions
 
-This is currently a personal learning project.  
-Suggestions and improvements are welcome.
+This is currently a personal project.  
+Thoughtful suggestions, corrections, or discussions are welcome.
 
 ---
 
 ## Note
 
-If you find this repository useful, feel free to star it or share it.
+If this repository aligns with your preparation style, feel free to star it or follow its progress.
